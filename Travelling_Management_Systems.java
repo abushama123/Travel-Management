@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author jude
+ * @author abushama
  */
 public class Travelling_Management_Systems extends javax.swing.JFrame {
     
